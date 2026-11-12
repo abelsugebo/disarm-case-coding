@@ -51,6 +51,10 @@ Source report: *DISARM Case Study: AI-Generated Propaganda Linking GERD Pride to
 
 The example contains no account names, handles, URLs to the original posts, or reproduced content. It records only what the published report states. Apply the same restraint in new cases: log artifacts privately with full provenance, and publish behavior-level descriptions.
 
+## Related work
+
+- [checked-fact-checking-method](https://github.com/abelsugebo/checked-fact-checking-method): the HaqCheck CHECKED workflow for verifying individual claims. This toolkit covers the campaign behavior behind them.
+
 ## License
 
 [CC BY 4.0](LICENSE.md). Reuse and adapt freely with attribution.
