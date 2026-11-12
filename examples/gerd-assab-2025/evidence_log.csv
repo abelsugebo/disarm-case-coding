@@ -1,0 +1,15 @@
+evidence_id,date,platform,artifact_type,language,role,description,linked_ids,preservation
+E01,2025-09-08,X,video,,primary artifact,"GERD celebration video shared by a prominent account, with on-screen messaging that moves from the dam's completion to an explicit Assab message. Acts as an emotional bridge from development pride to territorial aspiration.",,screenshot or PDF; archive link where available
+E02,2025-03-27,,video,,primary artifact,"Patriotic montage video with landlocked-themed slogans and an Assab hashtag. Predates the incident window and shows the visual trope was already circulating.",,screenshot or PDF; archive link where available
+E03,,,not described,,not described,Not described in the public report.,,
+E04,2025-09-09,,article,,timeline anchor,GERD inauguration coverage used to anchor the timeline.,,screenshot or PDF; archive link where available
+E05,2025-09-09,,article,,timeline anchor,GERD inauguration coverage used to anchor the timeline.,,screenshot or PDF; archive link where available
+E06,2025-08-19,,image,,primary artifact,"AI-styled port image presenting Assab as a vacation destination, with a casual caption and hashtags that lower perceived controversy.",,screenshot or PDF; archive link where available
+E07,,,not described,,not described,Not described in the public report.,,
+E08,2025-09-06,X,clip,Afaan Oromo,amplification,"Widely viewed clip framing Red Sea access as a matter of peace and national security, with Afaan Oromo audio. Shows multilingual resonance and the need for local-language risk review.",,screenshot or PDF; archive link where available
+E09,,X,post,,amplification,"Quote-share of the E10 clip the following day, adding hashtags and explicit return-of-Assab framing. Shows how the same content is sharpened into more mobilizing language.",E10,screenshot or PDF; archive link where available
+E10,,X,clip,,amplification,"Short clip cut from the E11 interview at 34:04 and reposted with landlocked-themed framing and account tagging.",E11;E09,screenshot or PDF; archive link where available
+E11,,YouTube,long-form video,,primary artifact,Long-form interview episode; the segment at 34:04 was later clipped and shared on X. Timestamped link preserved to anchor provenance.,E10,timestamped link
+E12,,,context source,,context,"Prior reporting and analysis using ""geographic prison"" framing of Ethiopia's sea access, predating the incident window.",,
+E13,,,context source,,context,"Prior reporting and analysis calling for ""sovereign access to a port"", predating the incident window.",,
+E14,,State-aligned media outlet,article,,counter-messaging,"Eritrean state-aligned outlet's critical response framing Ethiopia's focus on Assab as beyond rationality. Logged as contestation, not as proof of fact.",,screenshot or PDF; archive link where available

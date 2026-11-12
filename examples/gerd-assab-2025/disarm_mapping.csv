@@ -1,0 +1,7 @@
+row_id,disarm_phase,disarm_tactic_id,disarm_tactic,observed_behavior,evidence_ids,confidence,notes
+M01,Prepare,TA14,Develop Narratives,"Sea access framed as destiny, peace, and national security; slogans normalize entitlement to Assab.",E08;E09;E10;E12;E13,High,E12 and E13 show the framing predates the incident window.
+M02,Prepare,TA06,Develop Content,"Synthetic or AI-styled visuals and patriotic montage formats make Assab appear inevitable, desirable, or celebratory.",E06;E02;E01,High,
+M03,Execute,TA17,Maximise Exposure,"Quote-sharing, hashtags, tagging, and media amplification increase reach and reduce friction for resharing.",E09;E10;E08;E01,High,Includes the YouTube-to-X clip chain E11 to E10 to E09.
+M04,Prepare,TA15,Establish Assets,High-visibility accounts and media pages distribute and legitimize clips.,E01;E08;E10,Medium,Use of existing high-reach accounts; no evidence that assets were created for the operation.
+M05,Execute,TA10,Drive Offline Activity,"Explicit calls are present, but evidence is insufficient to claim offline mobilization outcomes.",E09;E02,Low to Medium,Signal only; no offline outcome documented.
+M06,Context,,Counter-messaging,Contestation reframes the discourse as irrational and illegitimate.,E14,Medium,Not a Red Framework tactic; recorded as context.
